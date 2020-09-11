@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<application xmlns="http://ns.adobe.com/air/application/33.1">
+    <id>com.yili.Main</id>
+    <versionNumber>0.0.0</versionNumber>
+    <filename>Main</filename>
+    <name>Main</name>
+    <initialWindow>
+        <content>[Path to content will be replaced by Visual Studio Code]</content>
+        <visible>true</visible>
+        <aspectRatio>landscape</aspectRatio>
+        <!-- <depthAndStencil>true</depthAndStencil> -->
+        <!-- <autoOrients>true</autoOrients> -->
+        <fullScreen>true</fullScreen>
+        <renderMode>direct</renderMode>
+    </initialWindow>
+    <!-- <extensions>
+        <extensionID>com.example.extendedFeature</extensionID>
+        <extensionID>com.example.anotherFeature</extensionID>
+    </extensions> -->
+</application>

@@ -1,0 +1,18 @@
+{
+    // Use IntelliSense to learn about possible SWF debug attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "swf",
+            "request": "launch",
+            "name": "Launch Adobe AIR mobile simulator",
+            "profile": "mobileDevice",
+            "screensize": "iPhone6",
+            "screenDPI": 326,
+            "versionPlatform": "IOS",
+            "preLaunchTask": "ActionScript: compile debug - asconfig.json"
+        }
+    ]
+}
